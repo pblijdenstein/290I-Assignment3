@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+numpy
+typing-extensions
+python-multipart
